@@ -1,6 +1,6 @@
 ### Made by [/shxrks/pokeclicker](https://github.com/shxrks/pokeclicker)
 
-![shxrks-tm-watermark]()
+![shxrks-tm-watermark](https://miro.medium.com/max/1200/1*z_Q3vhdUcOIpOVs3Velymg.jpeg)
 
 
 ## These are the commands to gain a random egg, gain a pokemon by its id, or progress eggs.
